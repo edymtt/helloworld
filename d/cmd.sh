@@ -1,0 +1,2 @@
+dmd hello.d
+./hello
