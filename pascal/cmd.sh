@@ -1,0 +1,2 @@
+fpc hello.pas
+./hello
